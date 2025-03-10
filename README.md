@@ -14,7 +14,6 @@ import plotly.express as px
 
 To run the Dash graph, once the app is running, open this URL:
 http://127.0.0.1:8050/
-The interactive dashboard will now be available for exploration.
 
 ### Usage Guide
 The project consists of five interactive visualizations to explore user spending behavior on Xiaohongshu:
